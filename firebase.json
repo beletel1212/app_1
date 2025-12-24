@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"whatsapp-backend4","appId":"1:45273120913:android:93e96a99003590a64cff30","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"whatsapp-backend4","configurations":{"android":"1:45273120913:android:93e96a99003590a64cff30","ios":"1:45273120913:ios:e72c3ce312c68c754cff30"}}}}}}
